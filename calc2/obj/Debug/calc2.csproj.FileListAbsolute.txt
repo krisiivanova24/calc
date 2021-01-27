@@ -1,0 +1,10 @@
+C:\Users\ivora\source\repos\calc2\calc2\bin\Debug\calc2.exe.config
+C:\Users\ivora\source\repos\calc2\calc2\bin\Debug\calc2.exe
+C:\Users\ivora\source\repos\calc2\calc2\bin\Debug\calc2.pdb
+C:\Users\ivora\source\repos\calc2\calc2\obj\Debug\calc2.csprojAssemblyReference.cache
+C:\Users\ivora\source\repos\calc2\calc2\obj\Debug\calc2.Form1.resources
+C:\Users\ivora\source\repos\calc2\calc2\obj\Debug\calc2.Properties.Resources.resources
+C:\Users\ivora\source\repos\calc2\calc2\obj\Debug\calc2.csproj.GenerateResource.cache
+C:\Users\ivora\source\repos\calc2\calc2\obj\Debug\calc2.csproj.CoreCompileInputs.cache
+C:\Users\ivora\source\repos\calc2\calc2\obj\Debug\calc2.exe
+C:\Users\ivora\source\repos\calc2\calc2\obj\Debug\calc2.pdb
